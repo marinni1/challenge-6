@@ -1,0 +1,59 @@
+header {
+    display: inline-flex; 
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background-color: orangered;
+    align-items: center;
+    gap: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 1440px;
+    height: 50px;
+}
+
+.linea{
+    height: 20px;
+    width: 2px;
+    background-color: black;
+}
+
+.Y{
+    border-color: white;
+    color: white;
+    border-width: 2px;
+    background-color: orangered;
+    font-size: 20px;
+    height: 40px;
+    width: 40px;
+}
+
+table{
+    background-color: #F6F7F0;
+}
+
+.thNumber {
+    text-align: start;
+    color: gray;
+    font-weight: bold; 
+    font-size: 20px;
+}
+
+.thTitle {
+    text-align: start;
+    color: black;
+    font-size: 20px;
+}
+
+.thImage{}
+
+.thLink {
+    text-align: start;
+    color: gray;
+    font-size: 16px;
+}
+
+.thText {
+    text-align: start;
+    color: gray;
+    font-size: 12px;
+}
